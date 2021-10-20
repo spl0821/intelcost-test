@@ -1,5 +1,9 @@
 # IntelcostTest
 
+This project uses pixabay.com api to get available images and simulate a store where you can find multiple images and also see the image information like author, tags, number of views and likes.
+
+Also this project can search images by tags written in a formcontrol and categories in a dropdown.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.5.
 
 ## Development server
