@@ -4,6 +4,8 @@ This project uses pixabay.com api to get available images and simulate a store w
 
 Also this project can search images by tags written in a formcontrol and categories in a dropdown.
 
+After cloning this respository, it's important to run `npm i` in the location of this project, then you can continue with the steps below.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.5.
 
 ## Development server
